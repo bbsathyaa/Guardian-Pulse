@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+twilio
+google-cloud-secret-manager
+google-cloud-aiplatform
+google-cloud-tasks
+google-cloud-sql-python-connector[bundled]
+sqlalchemy
+pg8000
+cryptography
+python-dotenv
